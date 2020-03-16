@@ -12,7 +12,7 @@ ln -s source_$1 source
 cp _config.yml.template _config.yml
 sed -i '' 's/__LANG__/'$1'/g' _config.yml
 sed -i '' 's/__ROOT__//g' _config.yml
-
+sed -i '' 's/__URL__/http\:\/\/localhost\:4000/' _config.yml
 npx hexo serve
 
 rm -rf public
