@@ -1,13 +1,15 @@
 
 # Created by https://www.gitignore.io/api/node,hugo,macos,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,hugo,macos,visualstudiocode
+
 db.json
+
 *.log
 ### Hugo ###
 # Generated files by hugo
 /public/
 /resources/_gen/
-
+_config.yml
 # Executable may be added to repository
 hugo.exe
 hugo.darwin

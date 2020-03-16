@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://oxygen.protofy.xyz/__ROOT__
+url: __URL__
 root: /__ROOT__
 permalink: :day/:month/:year/:title/
 permalink_defaults:
