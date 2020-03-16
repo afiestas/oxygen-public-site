@@ -1,34 +1,33 @@
 ---
-title: Bienvenido al proyecto OxyGEN
+title: Bienvenue dans le projet OxyGEN
 ---
 
-# Bienvenido a OxyGEN 
-Oxy**GEN** es un proyecto de hardware abierto para que cualquiera pueda construir un mecanismo de emergencia que automatiza un respirador manual tipo AMBU en situaciones extremas de desabastecimiento como las que está generando el coronavirus (COVID-19) en algunos lugares del mundo.
+# Bienvenue dans l'OxyGEN 
+Oxy**GEN** est un projet de hardware ouvert pour que tout le monde puisse construire un mécanisme d'urgence qui automatise un respirateur manuel de type AMBU, dans des situations de pénurie extrême, comme celle que génère le coronavirus (COVID-19) dans certaines parties du monde.
 
-Los planos y las instrucciones están disponibles de forma libre y gratuita. Se puede construir en pocas horas, sin entrenamiento previo ni herramientas especializadas. Todas las piezas que componen OxyGEN son fáciles de conseguir en cualquier lugar del mundo. Sólo se necesita un poco de ingenio, un motor de limpiaparabrisas y algunos materiales básicos. 
+Les dessins et les instructions sont disponibles au téléchargement gratuitement. Il peut être construit en quelques heures, sans formation préalable ni outils spécialisés. Toutes les pièces qui composent OxyGEN sont faciles à obtenir partout dans le monde. Il suffit d'un peu d'ingéniosité, d' un moteur d'essuie-glace et de quelques matériaux de base. 
 
-<img src="/images/resucitador-manual-adulto-tipo-ambu.png" width="300" alt="Resucitador manual adulto tipo AMBU" >
+<img src = "/images/resucitador-manual-adulto-tipo-ambu.png" width = "300" alt = "Adult resuscitator manual type AMBU">
 
-El proyecto nace en marzo de 2020, en plena crisis sanitaria provocada por el coronavirus (sars-cov-2). Su propósito es dar respuesta a una eventual situación de falta de respiradores de emergencia en los sistemas sanitarios de todo el mundo. 
+Le projet est né en mars 2020, au milieu d'une crise sanitaire provoquée par le **coronavirus** (sars-cov-2). Son objectif est de répondre à une éventuelle situation de manque de respirateurs d'urgence dans les systèmes de santé du monde entier. 
 
+# Vision du projet             
+* Utiliser des pièces récupérées de voitures ou de petits appareils électroménagers, afin que n'importe qui puisse les construire
+* Proposer le projet gratuitement et gratuitement à toute la communauté
+* Fournir des informations de qualité pour que chacun puisse le construire et le manipuler.
+* Assurer un bon fonctionnement dans les situations d'urgence grâce à la simplicité de la conception et des composants.
+* Aucune modification ne doit être apportée au dispositif médical : l'AMBU fonctionne de la même manière que d'habitude, à la différence que le mouvement est automatisé. 
+* Conception modulaire pour que la communauté puisse la modifier et apporter ses idées
 
-# Visión del proyecto             
-* Usar piezas recuperadas de automóviles o pequeños electrodomésticos, para que cualquiera pueda construirlo.
-* Ofrecer el proyecto de forma libre y gratuita para la toda la comunidad
-* Ofrecer información de calidad para que todo el mundo pueda construirlo y manipularlo.
-* Garantizar el funcionamiento correcto en situaciones de emergencia mediante la simplicidad del diseño y los componentes.
-* No se realiza ninguna modificación al dispositivo médico. El AMBU opera de la misma forma que lo hace siempre, pero automatizado. 
-* Diseño modular para que la comunidad pueda modificarlo y aportar sus ideas
+# Avertissements
+* Un respirateur bien utilisé sauve des vies, un respirateur mal utilisé peut provoquer la mort du patient.
+* L'appareil doit être utilisé exclusivement sous la supervision d'un personnel de santé qualifié
+* La conception de base ne filtre pas l'air expiré, lequel est rejeté dans l'environnement. Rester près de l'infecté n'est donc pas recommandé. Nous travaillons sur cette option pour les prochaines versions. 
 
-# Advertencias
-* Un respirador bien usado salva vidas, un respirador mal usado puede causar la muerte del paciente.
-* El dispositivo debe usarse exclusivamente bajo la supervisión de personal sanitario cualificado
-* El diseño básico no filtra el aire exhalado, este es liberado al ambiente. No se recomienda permanecer cerca del infectado. Estamos trabajando para esta opción para las siguientes versiones. 
-
-# Próximos pasos
-Este proyecto nace hoy, 15/03/2020, con la voluntad de crecer, mejorar y expandirse. Por ello detallamos aquí una pequeña lista a modo de brainstorming, que pueden ser usada en siguientes iteraciones del Oxy**GEN**, en la que nos gustaría que tu también participes.
-* Dimerizar el motor para ajustar la velocidad, con la filosofía low cost en mente, hemos pensado en el reóstato de un calefactor.
-* Añadir un sistema de sensado para avisar si se reduce la velocidad de respiración respecto la deseada, para detectar desgaste de piezas o fallos.
-* Crear un sistema que permita redirigir el aire exhalado a través del AMBU para inactivar el virus  y conseguir un entorno aséptico. 
-* Se debe mejorar la unión eje-cuerpo.
-* Buscar otro material accesible para sustituir la madera del cuerpo.
+# Prochaines étapes
+Ce projet est né aujourd'hui, 15/03/2020, avec la volonté de croître, de s'améliorer et de s'étendre. Par conséquent, nous détaillons ici une petite liste de réflexions, qui peut être utilisée dans les itérations ultérieures de l'Oxy **GEN**, à laquelle nous aimerions que vous participiez également : 
+* Variation de la vitesse de rotation du moteur pour ajuster le rythme de la respiration ;  avec la philosophie de faible coût à l'esprit, nous avons pensé à un rhéostat d un radiateur électrique.
+* Ajoutez un système de détection pour avertir si la vitesse de respiration est réduite par rapport à la vitesse souhaitée, pour détecter l'usure des pièces ou les pannes.
+* Créer un système qui permet à l'air expiré d'être redirigé depuis l'AMBU pour inactiver le virus et obtenir un environnement aseptique. 
+* L'union axe-corps doit être améliorée.
+* Trouvez d'autres matériaux accessibles pour remplacer le bois : plastiques, plexi..
