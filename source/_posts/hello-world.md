@@ -1,16 +1,24 @@
 ---
-title: Hello World
+title: Hello world
+date: 2020-03-14 16:39:40
+tags:
 ---
-Como muchos ingenieros que estan en casa encerrados por la situación de pandemia generada por el coronavirus. Viendo con impotencia como los hospitales cada vez estan más llenos de gente y ante el temor de que las cosas puedan empeorar, hemos decidido empezar el proyecto Oxy**GEN**.
 
-Este proyecto se centra en la necesidad actual y [la posible falta de aceso a máquinas de asistencia a la respiración](https://www.elconfidencial.com/espana/2020-03-12/respiradores-coronavirus-madrid-compra-comunidades_2492939/). Para dar solución al problema nos hemos juntado entorno a nuestro taller recogiendo todas las ideas que hemos visto de otros proyectos y aportando aqui nuestro granito de arena.
+El proyecto Oxy**GEN** nace de un grupo de ingenieros encerrados en casa por la situación de pandemia generada por el coronavirus. Viendo como los hospitales cada vez están más llenos de gente y ante la posibilidad de que las cosas puedan empeorar, hemos decidido empezar este proyecto para intentar aportar nuestro granito de arena con lo que sabemos hacer: crear prototipos desde 0 en poco tiempo. 
 
-Este proyecto nace aqui, en Barcelona una ciudad que hace algunos años iluminó el mundo con unos juegos olímpicos aclamados por todos. Una ciudad a la que el coronavirus ya robó el MWC ([Mobile World Congress](https://www.mwcbarcelona.com/)).
+Motivados y preocupados por la situación actual y ante la [posible falta de acceso a máquinas de asistencia a la respiración](https://www.boe.es/boe/dias/2020/03/15/pdfs/BOE-A-2020-3701.pdf). Hemos recopilado información preexistente y generado ideas nuevas desde nuestro taller y colaborativamente. Esto nos ha llevado a iterar distintos prototipos hasta obtener la la versión actual de Oxy**GEN**.
 
-Derivado de todo esto solo puede salir un proyecto OPEN, tanto el software como el hardware que se hospeden en este proyecto tiene que cumplir este requisito. Además queremos garantizar, el acceso a nuestro sistema para todo el mundo, haciendo pues que uno de los requisitos de diseño sea que las piezas y elementos a usar sean lo más económicos posible. Tampoco queremos olvidar que en situaciones de emergencia el acceso a productos técnologicos es limitado y que en muchas ocasiones deberemos sobrevivir con lo que tenemos más a mano. No solo eso sino que aplicando este principio podemos también dar una segunda vida a elementos que tenemos en casa, oficina, etc..
+Oxy**GEN** nace en el entorno innovador de Barcelona. Una ciudad que hace algunos años iluminó al mundo con unos juegos olímpicos que todos recordamos. Una ciudad en la que tras haberse quedado sin celebrar el MWC [(Mobile World Congress)](https://www.mwcbarcelona.com) por el coronavirus, la gente emprendedora, como nosotros se unió para crear eventos paralelos y fomentar el networking.
 
-Nuestro proyecto pues, nacido con vocación local, pide tu ayuda para que lo hagas crecer, para que entre todos pongamos un granito de arena para que los verdaderos heroés, el personal sanitario tenga otra herramienta en la lucha contra el virus.
+
+Queremos construir un proyecto abierto, donde todo el software, hardware e instrucciones sea completamente libre y gratuito. Pero pensamos que esto no es suficiente, y que Oxy**GEN** se tiene que poder construir con piezas económicas en cualquier lugar del mundo. Piezas fáciles de conseguir reutilizando cosas que cualquiera tiene a su alcance, incluso en una situación de emergencia en lugares remotos. 
+
+En situaciones de emergencia y escasez, el acceso a productos tecnológicos, herramientas especializadas o piezas complejas se vuelve muy difícil. La cadena de distribución falla o simplemente el coste es demasiado alto. Creemos que la reutilización y el ingenio, combinados con la colaboración entre todos, puede ayudarnos a salir de esta situación. 
+
+
+Oxy**GEN** es de momento un proyecto local, que pide tu ayuda para que lo hagas crecer, para que entre todos, hagamos lo que esté a nuestro alcance en estos momentos difíciles. Pensamos que lo poco que podemos hacer cada uno de forma individual, puede multiplicarse y terminar ayudando a los autenticos heroes: el personal sanitario que en el mundo entero está luchando por salvar vidas, pese a la escasez, la emergencia y los problemas a los que se enfrentan.
 
 Como dice la canción **YOU'LL NEVER WALK ALONE**
+
 
 Codazos para todos!
