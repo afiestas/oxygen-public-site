@@ -1,17 +1,25 @@
+#!/bin/bash
+
 set -x #echo on
 
 #clean public and source dirs in each lang build
 cleanBuild () {
-  echo "Cleaning build."
   rm -rf public
   unlink source
 }
 
 #generates a language inside a subfolder and cleans before exit
 generateLang() {
+  echo $1
   ln -s source_en source
   npx hexo generate
-  cp -a public/. "../oxygen-project-public-site/$1"
+
+  if [ $1 == "en" ]; then
+    cp -a public/. "../oxygen-project-public-site"
+  else
+    cp -a public/. "../oxygen-project-public-site/$1"
+  fi
+  
   cleanBuild
 }
 
@@ -22,3 +30,4 @@ cleanBuild
 generateLang "en"
 generateLang "es"
 generateLang "fr" 
+
