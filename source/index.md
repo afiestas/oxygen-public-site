@@ -2,8 +2,11 @@ title: Bienvenido al proyecto OxyGEN
 ---
 
 # Bienvenido a OxyGEN 
-Oxy**GEN** es un dispositivo libre y gratuito, creado por un grupo de makers, para **automatizar un respirador manual tipo AMBU**. Este proyecto nace en marzo de 2020, en mitad de la crisis provocada por el **coronavirus** (sars-cov-2) con la misión dar respuesta ante una eventual situación de falta de respiradores en el sistema sanitario.
-![alt Resucitador manual adulto tipo AMBU](/images/resucitador-manual-adulto-tipo-ambu.png)
+Oxy**GEN** es un proyecto de hardware abierto para que cualquiera pueda construir un mecanismo para automatizar un respirador manual tipo AMBU, en pocas horas y usando piezas baratas y disponibles en cualquier lugar del mundo.
+<img src="/images/resucitador-manual-adulto-tipo-ambu.png" width="300" alt="Resucitador manual adulto tipo AMBU" >
+Este proyecto nace en marzo de 2020, en mitad de la crisis provocada por el **coronavirus** (sars-cov-2) con la misión dar respuesta ante una eventual situación de falta de respiradores en los sistemas sanitarios de todo el mundo.
+
+
 # Visión del proyecto             
 * Ofrecer un sistema low cost para garantizar que el precio no sea un problema.
 * Ofrecer el proyecto gratuitamente para toda la comunidad.
@@ -18,4 +21,7 @@ Oxy**GEN** es un dispositivo libre y gratuito, creado por un grupo de makers, pa
 * Debido a que el sistema no incluye filtros y el aire exhalado es liberado al ambiente, no se recomienda permanecer cerca del infectado.
 
 # Siguientes posibles pasos
-Este proyecto nace hoy 15/03/2020, con la voluntad de crecer, mejorar y expandirse. Por ello detallamos aqui una pequeña lista con pasos a seguir para continuar con el proyecto.
+Este proyecto nace hoy 15/03/2020, con la voluntad de crecer, mejorar y expandirse. Por ello detallamos aqui una pequeña lista a modo de brainstorming, que pueden ser usadas en siguientes iteraciones del Oxy**GEN**.
+* Dimerizar el motor para ajustar la velocidad, con la filosofia low cost en mente, hemos pensado en el reostato de un calefactor.
+* Añadir un sistema de sensado para avisar si se reduce la velocidad de respiración respecto la deseada, para detectar desgaste de piezas o fallos.
+* Crear un sistema que permita redirigir el aire exhalado a partir del AMBU para poder filtrarlo.
