@@ -1,12 +1,13 @@
 #!/bin/bash
 
 set -x #echo on
-
+npx hexo clean
 
 #clean public and source dirs in each lang build
 cleanBuild () {
   rm -rf public
   unlink source
+  npx hexo clean
 }
 
 #generates a language inside a subfolder and cleans before exit

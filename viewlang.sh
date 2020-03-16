@@ -18,3 +18,4 @@ npx hexo serve
 rm -rf public
 unlink source
 rm _config.yml
+npx hexo clean
