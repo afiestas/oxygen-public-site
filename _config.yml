@@ -97,6 +97,9 @@ ignore:
 theme: cactus
 theme_config:
  colorscheme: white
+ google_analytics:
+  enabled: true
+  id: UA-160765193-1
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
