@@ -158,5 +158,3 @@ temp/
 # Ignore all local history of files
 .history
 
-# End of https://www.gitignore.io/api/node,hugo,macos,visualstudiocode
-themes/cactus
