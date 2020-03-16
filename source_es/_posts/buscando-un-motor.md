@@ -3,28 +3,29 @@ title: Buscando un motor
 date: 2020-03-16 16:39:40
 tags:
 ---
+Tras los primeros problemas con el motor de microondas, y con medio prototipo montado, debemos rectificar y volver a encontrar materiales. Es momento de hacer de ingenieros: Volvemos a la pizarra!
 
-Después de entrar en varios grupos de distintas comunidades [PONER LINKS Y NOMBRES], (Muchas gracias a todos!), existe una idea que claramente se repite: **los hospitales en todo el mundo necesitan respiradores de manera urgente.**
+Nuestro objetivo es identificar piezas que cualquiera tenga a su alcance. Pensar en objetos muy comunes que tengan piezas valiosas para construir Oxy**GEN** en lugares donde es impensable encontrar componentes electrónicos o impresoras 3d y donde el tiempo será escaso. 
 
-Con esta idea en la cabeza, es un reto pensar en cómo podemos ayudar. Son tiempos difíciles en los que la movilidad se reduce y la comunidad se vuelve más local. Por eso pensamos que casi cualquier ciudadano en cualquier lugar donde se necesite, debería poder construir un respirador mecánico automático. **Queremos diseñar un dispositivo que pueda construir cualquiera.** Un dispositivo para los miles de personas anónimas pero con mucho ingenio, que están por todas partes muy motivados y con ganas de ayudar al personal sanitario desbordado. 
+<img src="/images/buscando-un-motor/material.jpeg" width="450">
 
-Para que algo lo pueda **construir cualquiera y en cualquier lugar**, tiene que ser simple y basarse en materiales de muy fácil acceso. Así pues, sin darnos cuenta empezamos a tener claros unos requisitos. Con esto en la cabeza, hemos empezado a estudiar los mecanismos disponibles de respiración así como sus posibles contraindicaciones, tras esta investigación hemos decidido que hay que encontrar algo que nos solucione la gestión del aire.
+Uno de los elementos que más nos preocupa es el motor; necesitamos par, pero no es viable construir una gran reductora para cumplir con los requisitos de velocidad, esto nos complica la idea de aprovechar piezas de pequeños electrodomésticos comunes. Empezamos a buscar entre nuestros contactos, hablándoles del reto para ver qué ideas tienen. La gente de [Zocama](https://zocama.com) nos da una pista: usar un motor de limpiaparabrisas. 
 
-Uno de nuestros contactos médicos nos aporta la idea de usar un respirador manual tipo AMBU. Este dispositivo tiene 2 factores claves: el primero es que está presente en muchos sitios (ambulancias, boxes de emergencia, etc…), por otro lado tiene la certificación para uso en el entorno médico.  El siguiente punto nos lleva a encontrar los proyectos del MIT, de Rice e incluso uno en Vietnam que reportaban pequeños éxitos alrededor de este dispositivo. Centrándose en **sustituir al personal necesario para operar el AMBU por un dispositivo mecánico**. Estos diseños son excelentes, pero son muy complejos para ser construidos por gente sin entrenamiento, en situaciones de emergencia y desabastecimiento. 
+Pero Barcelona está en aislamiento. Es difícil pensar ahora en pedir piezas o desmontar un coche. Nos avisan de que alguien tiene un viejo PEUGEOT 504 **Ambulancia** (una bonita casualidad) de los años 70 en un garaje. Consiguen desmontar el limpiaparabrisas y sacar el motor.
 
-<img src="/images/hello-world/we-got-the-AMBU.jpeg" width="250">
+**[VIDEO MARC DESMONTANDO LIMPIA]**
 
-Sin tiempo que perder, moviendo contactos, alguien nos sugiere que ha encontrado un AMBU, en Wallapop, nos desplazamos rápidos hacia allí para comprobar que es cierto y que está todo el equipo completo. Sabemos que este tipo de material es imprescindible en estos momentos, y en cuanto términos este diseño, vamos a poner nuestro AMBU a disposición de cualquiera que en emergencia lo necesite. Afortunadamente, en Barcelona no hay escasez de AMBU, por lo que podemos tener uno para hacer pruebas. 
+Ahora solo falta pensar en algo que nos permita alimentar el motor. Esto es más sencillo, ya que estos motores funcionan a 12V. Un cargador de baterias de coche o una fuente de alimentación de ordenador (tipo ATX) son candidatos perfectos y muy fáciles de conseguir en cualquier sitio. **Parece que el motor del “limpia” se postula como un buen candidato**. 
 
+Por otro lado y con lo aprendido hasta ahora [LINK AL ARTÍCULO ANTERIOR] en la cabeza, hemos desmontado en paralelo minipimers, taladros, etc... para poder tener alternativas a mano.
 
-Mientras buscamos el AMBU, el equipo en el taller ha encontrado un motor que no necesita fuente de alimentación, funciona a 220V y tiene una velocidad parecida a la requerida por nuestra respiración. Para aquellos que no lo sepan **la mayoría de microondas en su interior llevan un pequeño motor asíncrono** que funciona a 220V (algunos van a 21V AC), perfecto. Quien no tiene un microondas en casa?
+<img src="/images/buscando-un-motor/motors.jpeg" width="450">
 
-<img src="/images/hello-world/microwave-oven-disarmed.jpeg" width="250">
+En este punto es crítico volver a contactar con un médico: empezamos a tirar de contactos. Algunos médicos que están en cuarentena pero con ganas de ayudar, nos pasan puntos a tener en cuenta. Se puede provocar mucho daño a un paciente introduciendo aire con demasiada presión en su cuerpo. Los márgenes no son muy grandes. El AMBU nos ayuda a superar este reto.
 
-Horas después y tras un primer prototipo, vemos que el motor de microondas no tiene suficiente par. Ya nos lo temíamos, pero había que intentarlo!
+Otra cosa interesante es que debemos poder ajustar la frecuencia de la respiración de algún modo. El hecho de contar con un motor DC nos facilitará las cosas en este sentido. Por ahora para seguir con la solución para emergencias accesible a todo el mundo, planteamos poder ajustar este parámetro con el diseño mecánico.
 
-Nos vamos a casa con mil ideas en la cabeza, el prototipo aun no funciona, pero tenemos muchas ganas de seguir mañana. 
+Al final parece que tenemos motor y algunas ideas, como alguien dijo alguna vez: Juntarse es un comienzo. Seguir juntos es un progreso. Trabajar juntos es un éxito.
 
-**Somos optimistas**: Hemos conseguido en 24h tener unos requisitos de diseño que creemos que son viables y realizar el primer prototipo. Como dicen por allí: **FAIL FASTER, SUCCEED SOONER**.
+Codazos para todos
 
-Codazos para todos.
