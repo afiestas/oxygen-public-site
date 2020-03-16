@@ -2,7 +2,7 @@
 title: Sobre nosotros
 date: 2020-03-15 14:31:35
 ---
-Le projet Oxy**GEN** est dirigé par [Protofy.xyz] (https://www.protofy.xyz) une entreprise située à Barcelone qui aide les départements d'ingénierie et les entreprises à innover de manière efficace, simple et rapide.
+Le projet Oxy**GEN** est dirigé par [Protofy.xyz](https://www.protofy.xyz) une entreprise située à Barcelone qui aide les départements d'ingénierie et les entreprises à innover de manière efficace, simple et rapide.
 
 Chez Protofy, nous créons et intégrons des éléments électroniques, mécaniques, micrologiciels et logiciels.
 
