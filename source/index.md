@@ -2,7 +2,7 @@ title: Bienvenido al proyecto OxyGEN
 ---
 
 # Bienvenido a OxyGEN 
-Oxy**GEN** es un proyecto de hardware abierto para que cualquiera pueda construir un mecanismo que automatiza un respirador manual tipo AMBU. 
+Oxy**GEN** es un proyecto de hardware abierto para que cualquiera pueda construir un mecanismo de emergencia que automatiza un respirador manual tipo AMBU en situaciones extremas de desabastecimiento.
 
 Los planos y las insutrcciones están disponibles de forma libre y gratuita. Se puede construir en pocas horas, sin entrenamiento previo ni herramientas especializadas. Todas las piezas que componen OxyGEN son fáciles de conseguir en cualquier lugar del mundo. Solo se necesita un poco de ingenio, un motor de limpiaparabrisas y algunos materiales básicos. 
 
@@ -11,17 +11,17 @@ Este proyecto nace en marzo de 2020, en mitad de la crisis provocada por el **co
 
 
 # Visión del proyecto             
-* Ofrecer un sistema low cost para garantizar que el precio no sea un problema.
-* Ofrecer el proyecto gratuitamente para toda la comunidad.
+* Usar piezas recuperadas de automoviles o pequeños electrodomésticos, para que cualquiera pueda construirlo.
+* Ofrecer el proyecto de forma libre y gratuita para la toda la comunidad
 * Ofrecer información de calidad para que todo el mundo pueda construirlo y manipularlo.
-* Garantizar el funcionamiento correcto en situaciones de emergencia mediante la simplicidad de los componentes.
-* No se realiza ninguna modificación al dispositivo médico.
-* Modularidad ante todo, tenemos que unir esfuerzos, así que hemos pensado el diseño en módulos para que se pueda ir ampliando con addons.
+* Garantizar el funcionamiento correcto en situaciones de emergencia mediante la simplicidad del diseño y los componentes.
+* No se realiza ninguna modificación al dispositivo médico. El AMBU opera de la misma forma que lo hace siempre, pero automatizado. 
+* Diseño modular para que la comunidad pueda modificarlo y aportar sus ideas
 
 # Advertencias
 * Un respirador bien usado salva vidas, un respirador mal usado puede causar la muerte del paciente.
-* No use el dispositivo sin el consejo y la supervisión de un médico.
-* Debido a que el sistema no incluye filtros y el aire exhalado es liberado al ambiente, no se recomienda permanecer cerca del infectado.
+* El dispositivo debe usarse exclusivamente bajo la supervisión de personal sanitario cualificado
+* El diseño básico no filtra el aire exhalado es liberado al ambiente, no se recomienda permanecer cerca del infectado.
 
 # Siguientes posibles pasos
 Este proyecto nace hoy 15/03/2020, con la voluntad de crecer, mejorar y expandirse. Por ello detallamos aqui una pequeña lista a modo de brainstorming, que pueden ser usadas en siguientes iteraciones del Oxy**GEN**.
