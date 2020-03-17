@@ -7,7 +7,7 @@ Oxy**GEN** es un proyecto de hardware abierto para que cualquiera pueda construi
 
 Los planos y las instrucciones están disponibles de forma libre y gratuita. Se puede construir en pocas horas, sin entrenamiento previo ni herramientas especializadas. Todas las piezas que componen Oxy**GEN** son fáciles de conseguir en cualquier lugar del mundo. Sólo se necesita un poco de ingenio, un motor de limpiaparabrisas y algunos materiales básicos. 
 
-<p>OxyGEN está pensando para liberar personal sanitario en situaciones de colapso. Este dispositivo <span class="danger" style="color: #fb4949;">no es un dispositivo médico</span> y tenemos mucho camino por recorrer, es un primer paso. Debe usarse siempre bajo la supervisión de personal sanitario.</p>
+<p>Oxy<strong>GEN</strong> está pensando para liberar personal sanitario en situaciones de colapso. Este dispositivo <span class="danger" style="color: #fb4949;">no es un dispositivo médico</span> y tenemos mucho camino por recorrer, es un primer paso. Debe usarse siempre bajo la supervisión de personal sanitario.</p>
 
 <br/> 
 
@@ -23,9 +23,8 @@ El proyecto nace en marzo de 2020, en plena crisis sanitaria provocada por el **
 [Ver Repositorio](https://github.com/ProtofyTeam/OxyGEN)
 [Descargar](https://github.com/ProtofyTeam/OxyGEN/archive/master.zip)
 
-# Síguenos en
+# Síguenos!
 * [Discord](https://discord.gg/yyYQxEG)
-
 
 # Visión del proyecto             
 * Usar piezas recuperadas de automóviles o pequeños electrodomésticos, con la idea de que cualquiera pueda construirlo.

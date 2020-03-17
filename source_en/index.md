@@ -7,6 +7,8 @@ Oxy**GEN** is an open hardware project to build an emergency mechanism that auto
 
 Drawings and instructions are available free of charge. It can be built in a few hours, without prior training or specialized tools. All the parts that make up Oxy**GEN** are easy to get anywhere in the world. It just takes a little ingenuity, a wiper motor, and a few basic materials.
 
+<p>Oxy<strong>GEN</strong> is designed to ease workload on the health personnel. <span class = "danger" style = "color: # fb4949;">This is not a medical device</span> and there is still a lot of work to be done in refining its design - it is a first step. OxyGEN must always be used under medical supervision.</p>
+
 <br/> 
 
 {% youtube 0386hOgcQTA %}
@@ -20,6 +22,9 @@ The project was born in March 2020, in the midst of a health crisis caused by th
 
 [View repository](https://github.com/ProtofyTeam/OxyGEN)
 [Download](https://github.com/ProtofyTeam/OxyGEN/archive/master.zip)
+
+# Follow us!
+* [Discord](https://discord.gg/yyYQxEG)
 
 # Project overview
 * Use salvaged parts from cars or small appliances, so that anyone can build it.
