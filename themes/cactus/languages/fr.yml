@@ -1,12 +1,13 @@
 nav:
   home: Accueil
   about: A propos
-  articles: Articles
+  articles: Blog
   projects: Projets
   search: Chercher
 
 footer:
-  copyright: Copyright
+  copyright: Fait avec
+  copyright1: par
 
 index:
   find_me_on: Retrouve moi sur

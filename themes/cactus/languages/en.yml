@@ -8,7 +8,8 @@ nav:
   search: Search
 
 footer:
-  copyright: Copyright
+  copyright: Made with
+  copyright1: by
 
 index:
   find_me_on: Find me on
