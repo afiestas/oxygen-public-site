@@ -2,8 +2,10 @@
 title: Sobre nosotros
 date: 2020-03-15 14:31:35
 ---
-El proyecto OxyGEN esta liderado por [Protofy.xyz](https://www.protofy.xyz) una empresa ubicada en Barcelona que ayuda a los departamentos de ingeniería y a las empresas a innovar de una forma eficiente, sencilla y rápida.
+Oxy**GEN** es un proyecto colaborativo liderado y coordinado por [Protofy.xyz](https://www.protofy.xyz) una empresa de Barcelona que ayuda a empresas y departamentos de ingeniería a impulsar la innovación.
 
-A él se han sumado muchos particulares y otras empresas que ayudan en la medida de sus posibilidades al proyecto.
+En Protofy creamos e integramos elementos de electrónica, mecánica, firmware y software.
 
-Si crees que puedes ayudarnos en el proyecto no lo dudes y ponte en contacto con nosotros en oxygen@protofy.xyz
+A este proyecto se han sumado ya muchas personas y  empresas. Muchas gracias a todos ellos!
+
+Si crees que tu también puedes colaborar, no lo dudes, ponte en contacto con nosotros en oxygen@protofy.xyz. 
