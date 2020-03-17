@@ -13,7 +13,7 @@ The slowest spin mode operates the system at 45 rpm, with this and knowing that 
 
 We crush the numbers in Matlab and using this [repository](https://github.com/ProtofyTeam/OxyGEN/tree/master/Matlab%20Files), we get the dimensions of the cam.
 
-<img src="/images/primer-prototipo/matlab-vs-real.jpeg" width="450" alt="Screenshot from a computer and real hardware parts">
+<!-- <img src="/images/primer-prototipo/matlab-vs-real.jpeg" width="450" alt="Screenshot from a computer and real hardware parts"> -->
 
 Motivated, we conduct the first tests with the cam design and the gears seem to work, we have just over 15 rpm. This is in line with data collected from doctors.
 

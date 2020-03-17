@@ -14,8 +14,7 @@ El modo de giro más lento hace funcionar el sistema a 45 rpm, con esto y sabien
 
 Introducimos los números en Matlab y usando este [repositorio](https://github.com/ProtofyTeam/OxyGEN/tree/master/Matlab%20Files), obtenemos las dimensiones de la leva.
 
-<img src="/images/primer-prototipo/matlab-vs-real.jpeg" width="450" alt="Captura de pantalla junto a las piezas reales">
-
+<!-- <img src="/images/primer-prototipo/matlab-vs-real.jpeg" width="450" alt="Captura de pantalla junto a las piezas reales"> -->
 
 Los pequeños avances nos motivan, realizamos las primeras pruebas con el diseño de la leva y los engranajes parecen funcionar, tenemos algo más de 15 rpm. Esto está en consonancia con los datos recopilados de los médicos.
 
