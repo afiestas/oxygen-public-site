@@ -8,5 +8,5 @@ Chez Protofy, nous créons et intégrons des éléments électroniques, mécaniq
 
 De nombreux particuliers et autres entreprises se sont joints à lui pour accompagner au mieux le projet. Merci beaucoup à tous pour votre aide.
 
-Si vous pensez que vous pouvez également aider, n'hésitez pas et contactez-nous à oxygene@protofy.xyz. 
+Si vous pensez que vous pouvez également aider, n'hésitez pas et contactez-nous à oxygen@protofy.xyz. 
 
