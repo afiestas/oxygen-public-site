@@ -16,7 +16,7 @@ Los planos y las instrucciones están disponibles de forma libre y gratuita. Se 
 El proyecto nace en marzo de 2020, en plena crisis sanitaria provocada por el **coronavirus** (sars-cov-2). Su propósito es dar respuesta a una eventual situación de falta de respiradores de emergencia en los sistemas sanitarios de todo el mundo. 
 
 # Repositorio y descargas
-<img src="/images/oxygen-explo-view.png" width="450" alt="Vista explosionada de OxyGEN">
+<img src="/es/images/oxygen-explo-view.png" width="450" alt="Vista explosionada de OxyGEN">
 
 [Ver Repositorio](https://github.com/ProtofyTeam/OxyGEN)
 [Descargar](https://github.com/ProtofyTeam/OxyGEN/archive/master.zip)
