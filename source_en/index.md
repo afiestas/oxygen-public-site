@@ -7,7 +7,7 @@ Oxy**GEN** is an open hardware project to build an emergency mechanism that auto
 
 Drawings and instructions are available free of charge. It can be built in a few hours, without prior training or specialized tools. All the parts that make up Oxy**GEN** are easy to get anywhere in the world. It just takes a little ingenuity, a wiper motor, and a few basic materials.
 
-<p>Oxy<strong>GEN</strong> is designed to ease workload on the health personnel. <span class = "danger" style = "color: # fb4949;">This is not a medical device</span> and there is still a lot of work to be done in refining its design - it is a first step. OxyGEN must always be used under medical supervision.</p>
+<p>Oxy<strong>GEN</strong> is designed to ease workload on the health personnel. <span class="danger" style="color: #fb4949;">This is not a medical device</span> and there is still a lot of work to be done in refining its design - it is a first step. Oxy<strong>GEN</strong> must always be used under medical supervision.</p>
 
 <br/> 
 
