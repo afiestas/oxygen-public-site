@@ -1,14 +1,13 @@
 ---
-title: Hello world
+title: Hello World
 date: 2020-03-14 16:39:40
 tags:
 ---
-
-The Oxy**GEN** project was born from a group of engineers locked up at home due to the pandemic situation caused by coronavirus. Seeing how hospitals are becoming more and more crowded and given the possibility that things could get worse, we have decided to start this project to try to make our contribution with what we do best: create prototypes from scratch in no time.
+The Oxy**GEN** project was born from a group of engineers locked up at home due to the pandemic situation caused by coronavirus. Seeing how hospitals are becoming more and more crowded and given the possibility that things could get worse, we have decided to start this project to try to make our contribution with what we do best: **create prototypes from scratch in no time**.
 
 Motivated and concerned regarding the current situation and faced with a [possible lack of access to breathing assistance machines](https://www.boe.es/boe/dias/2020/03/15/pdfs/BOE-A-2020-3701.pdf), we headed to our workshop, collecting all the ideas we could find from other projects and trying to contribute with what we are best at: build something.
 
-Oxy**GEN** was born in the innovative environment of Barcelona. A city that some years ago brightened the world with the Olympic games that we all remember. A city in which after the cancelation of the MWC [(Mobile World Congress)](https://www.mwcbarcelona.com) due to the coronavirus, enterprising people, like us, came together to create parallel events and promote networking.
+Oxy**GEN** **was born in the innovative environment of Barcelona**. A city that some years ago brightened the world with the Olympic games that we all remember. A city in which after the cancelation of the MWC [(Mobile World Congress)](https://www.mwcbarcelona.com) due to the coronavirus, enterprising people, like us, came together to create parallel events and promote networking.
 
 We want to build an open project, where all the software, hardware and instructions are completely open and free. But we believe that this is not enough, and that Oxy**GEN** must be able to be built with cheap parts anywhere in the world. Easy to get parts, reusing things that anyone has at their fingertips, even in an emergency situation in a remote place.
 
@@ -20,4 +19,3 @@ As the song goes:  **YOU'LL NEVER WALK ALONE**
 
 
 Elbows for everybody !
-

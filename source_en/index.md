@@ -1,11 +1,11 @@
 ---
-title: Bienvenido al proyecto OxyGEN
+title: Welcome to the OxyGEN project
 ---
 
-# Bienvenido a OxyGEN 
-Oxy**GEN** es un proyecto de hardware abierto para que cualquiera pueda construir un mecanismo de emergencia que automatiza un respirador manual tipo AMBU en situaciones extremas de desabastecimiento como las que está generando el coronavirus (COVID-19) en algunos lugares del mundo.
+# Welcome to OxyGEN
+Oxy**GEN** is an open hardware project to build an emergency mechanism that automates an AMBU type manual respirator in extreme shortage situations such as the one caused by **coronavirus** (COVID-19) in some parts of the world.
 
-Los planos y las instrucciones están disponibles de forma libre y gratuita. Se puede construir en pocas horas, sin entrenamiento previo ni herramientas especializadas. Todas las piezas que componen OxyGEN son fáciles de conseguir en cualquier lugar del mundo. Sólo se necesita un poco de ingenio, un motor de limpiaparabrisas y algunos materiales básicos. 
+Drawings and instructions are available free of charge. It can be built in a few hours, without prior training or specialized tools. All the parts that make up Oxy**GEN** are easy to get anywhere in the world. It just takes a little ingenuity, a wiper motor, and a few basic materials.
 
 <br/> 
 
@@ -13,26 +13,44 @@ Los planos y las instrucciones están disponibles de forma libre y gratuita. Se 
 
 <br/> 
 
-El proyecto nace en marzo de 2020, en plena crisis sanitaria provocada por el coronavirus (sars-cov-2). Su propósito es dar respuesta a una eventual situación de falta de respiradores de emergencia en los sistemas sanitarios de todo el mundo. 
+The project was born in March 2020, in the midst of a health crisis caused by the **coronavirus** (sars-cov-2). Its purpose is to respond to the possibility of a lack of emergency respirators in health systems around the world.
 
+# Repository and downloads
+<img src="/images/oxygen-explo-view.png" width="450" alt="Explosion view of the OxyGEN">
 
-# Visión del proyecto             
-* Usar piezas recuperadas de automóviles o pequeños electrodomésticos, para que cualquiera pueda construirlo.
-* Ofrecer el proyecto de forma libre y gratuita para la toda la comunidad
-* Ofrecer información de calidad para que todo el mundo pueda construirlo y manipularlo.
-* Garantizar el funcionamiento correcto en situaciones de emergencia mediante la simplicidad del diseño y los componentes.
-* No se realiza ninguna modificación al dispositivo médico. El AMBU opera de la misma forma que lo hace siempre, pero automatizado. 
-* Diseño modular para que la comunidad pueda modificarlo y aportar sus ideas
+[View repository](https://github.com/ProtofyTeam/OxyGEN)
+[Download](https://github.com/ProtofyTeam/OxyGEN/archive/master.zip)
 
-# Advertencias
-* Un respirador bien usado salva vidas, un respirador mal usado puede causar la muerte del paciente.
-* El dispositivo debe usarse exclusivamente bajo la supervisión de personal sanitario cualificado
-* El diseño básico no filtra el aire exhalado, este es liberado al ambiente. No se recomienda permanecer cerca del infectado. Estamos trabajando para esta opción para las siguientes versiones. 
+# Project overview
+* Use salvaged parts from cars or small appliances, so that anyone can build it.
+* Offer the project free of charge and open to the entire community.
+* Offer quality information so that everyone can build and manipulate it.
+* Ensure proper performance in emergency situations through simplicity of design and components.
+* No modification is made to the medical device. The AMBU operates in the same way as it always does, but automated.
+* Modular design so that the community can modify it and contribute their ideas.
 
-# Próximos pasos
-Este proyecto nace hoy, 15/03/2020, con la voluntad de crecer, mejorar y expandirse. Por ello detallamos aquí una pequeña lista a modo de brainstorming, que pueden ser usada en siguientes iteraciones del Oxy**GEN**, en la que nos gustaría que tu también participes.
-* Dimerizar el motor para ajustar la velocidad, con la filosofía low cost en mente, hemos pensado en el reóstato de un calefactor.
-* Añadir un sistema de sensado para avisar si se reduce la velocidad de respiración respecto la deseada, para detectar desgaste de piezas o fallos.
-* Crear un sistema que permita redirigir el aire exhalado a través del AMBU para inactivar el virus  y conseguir un entorno aséptico. 
-* Se debe mejorar la unión eje-cuerpo.
-* Buscar otro material accesible para sustituir la madera del cuerpo.
+# Warnings
+* A well used respirator saves lives, when poorly used it can lead to the death of the patient.
+* The device must be used exclusively under the supervision of qualified healthcare personnel
+* The basic design does not filter the exhaled air, which is released into the environment. Staying close to the infected patient is not recommended. We are working on this challenge for the next versions.
+
+# Next steps
+This project was born today, 03/15/2020, with the desire to grow, improve and expand. Therefore we detail a small list here with brainstorming purposes, which can be used in subsequent iterations of the Oxy**GEN**, in which we would like you to participate as well.
+* Dimming the motor to adjust speed, with the low cost philosophy in mind, we have thought of a heater rheostat.
+* Create a system that allows the exhaled air to be redirected through the AMBU to inactivate the virus and achieve an aseptic environment.
+In the idea of lightly guiding the brainstorming process, we have researched a few ways to achieve asepsis. We came across a very recent [post](https://foro.coronavirusmakers.org/index.php?p=/discussion/24/alternativas-para-filtro-antiviral-a-la-salida-del-ambu#latest)  in [CoronaVirusMakers](https://foro.coronavirusmakers.org/) discussing the possibility of the removal of the virus with a bubble column containing and oxidant like bleach.
+* Add a sensing system to warn if the breathing speed is reduced with respect to the desired one, to prevent the wear of parts or failures.
+* The axis-body union must be improved.
+* Find other accessible material to replace the wood.
+
+# Thanks and community
+This project would not be possible without:
+* [Joca](https://www.linkedin.com/in/jcarlosn/)
+* [Ap0](https://linkedin.com/in/noemi-blázquez-b0034732)
+* [Marc](https://www.linkedin.com/in/marc-watine/)
+* [Carla](https://www.linkedin.com/in/carla-w-535719130/)
+* [CovidWarriors](https://www.covidwarriors.io/)
+* [CoronavirusMakers](https://foro.coronavirusmakers.org/)
+* [Zocama](https://www.zocama.com)
+* [Francesc Rubio](https://instagram.com/nordtaller)
+* [Imagine](https://imagine.cc/)

@@ -1,36 +1,37 @@
 ---
-title: FAQs
-date: 2020-03-16 05:00:07
+title: FAQS
 ---
-# A quién va dirigido?
-A cualquier profesional sanitario cualificado que se encuentre en una situación extrema con escasez de respiradores asistidos automáticos. Este dispositivo puede construirse en poco tiempo y con materiales facilmente disponibles y permite automatizar un resucitador manual tipo AMBU. Es un dispositivo diseñado para evitar situaciones de vida o muerte en triajes de emergencia, no para sustituir a otros dispositivos superiores, profesionales y muchísimo mas seguros.
+# Who is it for?
+To any qualified healthcare professional who is in an extreme situation with a shortage of assisted ventilators and needs a device of last resort that automates an AMBU type manual resuscitator, usually found in ambulances.
+This device can be built in a short time and with readily available materials. It is a device designed to avoid life and death situations in emergency triages, not to replace other superior, professional and much safer devices.
 
-# Quién puede montar un prototipo de OxyGEN y cuánto tiempo se necesita?
-OxyGEN está diseñado para ser muy fácil de construir en situaciones de emergencia. No se necesitan conocimientos especializados de ingenieria para construirlo. Se puede consrtuir uno en menos de 1 dia, empleando a una sola persona. Las herramientas necesarias se pueden encontrar aquí[link].
+# Who can build an Oxy**GEN** prototype and how long does it take?
+Oxy**GEN** is designed to be very easy to build in emergency situations. No specialized engineering knowledge is required to build it. You can build one in less than 1 day, by yourself. The necessary tools can be found [here](https://github.com/ProtofyTeam/OxyGEN).
 
-# OxyGEN Sustituye a un respirador certificado o profesional?
-No, este dispositivo es un dispositivo de emergencia y último recurso. No es una solución barata para sustituir respiradores artificiales profesionales. Es una solución de emergencia para situaciones extremas en lugares donde no exista otra opción.
+# Oxy**GEN** Replaces a certified or professional respirator?
+No, this is an emergency and last resort device. It is not a solution to replace professional artificial respirators. It is an emergency solution during extreme situations when there is no other option.
 
-# Es seguro?
-Es un dispositivo de último recurso que automatiza un resucitador manual tipo AMBU, habitualmente encontrado en ambulancias. Sustituye a la persona que necesita ir realizando las compresiones del dispositivo, para liberar recursos en situaciones de saturación donde no existe otra alternativa. Debe ser utilizado bajo la supervisión de personal sanitario cualificado. Un respirador incorrectamente utilizado puede ser muy peligroso.
+# Is it safe?
+It is a device of last resort that automates an AMBU manual respirator, commonly found in ambulances. It replaces the person who needs to carry out the compressions of the device, to free resources in saturation situations where there is no other alternative. It must be used under the imperative supervision of qualified health personnel. An improperly used respirator can be very dangerous.
 
-# Es legal?
-No pretendemos construir este dispositivo para venderlo ni entregarlo a nadie. Solo queremos demostrar una forma barata, fácil y rápida para construir dispositivos de último recurso para situaciones de emergencia en lugares donde no exista otra opción. Lo que proporcionamos es el diseño, los planos y esquemas y nuestra experiencia construyendo un prototipo.
+# Is it legal?
+We do not intend to build this device to sell or deliver it to anyone.
+We just want to help in this global health emergency situation with a cheap, easy and quick to build device that can be used as a last resort for emergency situations in places where there is no other option. We only provide the design, plans and schematics, as well as our experience building this prototype.
 
-# Cómo puedo ayudar?
-OxyGEN es un proyecto abierto y libre, puedes hacer forks o añadir nuevas ideas siempre que se mantenga abierto y libre para cualquier ciudadano del mundo.
+# How I can help?
+Oxy**GEN** is an opensource and free project, you can make forks or add new ideas as long as it is kept open and free for any citizen of the world.
 
-# Quién está detrás de OxyGEN?
-OxyGEN es un proyecto de hardware iniciado por [Protofy](https://protofy.xyz). Cualquiera puede contribuir con ideas, planos o conocimiento. El proyecto se coordina en actualmente en Discord, va. Puedes contactar con nosotros en oxygen@protofy.xyz. 
+# Who is behind Oxy**GEN**?
+Oxy**GEN** is a collaborative hardware project started and led by [Protofy](https://protofy.xyz). Anyone can contribute ideas, plans or knowledge. You can contact us at oxygen@protofy.xyz.
 
-# Que es Protofy?
-[Protofy](https://protofy.xyz) es una empresa ubicada en Barcelona que ayuda a los departamentos de ingeniería y a las empresas a innovar de una forma eficiente, sencilla y rápida.
+# What is Protofy?
+[Protofy](https://protofy.xyz) is a company located in Barcelona that supports innovation with hardware and software to companies and engineering departments.
 
-# Que nos inspira o motiva?
-El nuevo coronavirus (sars-cov-2) causó a principios del año 2020 una epidemia en China que posteriormente se ha extendido por todo el mundo, provocando una pandemia a nivel mundial. En algunos momentos puntuales esto ha provocado escasez y desabastecimiento de equipo y material médico en algunos lugares de China y del norte de Italia. Pensamos que esto podría volver a pasar si la situación empeora. No todos los sistemas de salud están igual de preparados en todo el mundo, y una parte importante del mundo no tiene acceso a estos dispositivos.
+# What inspires and motivates us?
+The will to contribute our knowledge to alleviating the devastating effects of this unprecedented health crisis in recent years. This pandemic can lead to situations of shortage and lack of medical equipment and supplies in some places (rural areas, developing countries) if the situation worsens.
 
-# No es exagerado? Realmente esto es necesario? No va a haber desabastecimiento!
-No sabemos si esto es necesario, y esperamos que no lo sea. Hemos decidido construirlo y liberar los planos y el diseño para que cualquiera pueda construirlo. Deseamos que esto nunca sea necesario, y que los servicios médicos de todos los países del mundo tengan acceso a los dispositivos que necesitan. Sin embargo, pensamos que si la situación empeora, es posible que en muchos lugares del mundo los aparatos como los respiradores asistidos no sean suficientes.
+# Isn’t this exaggerated? Is this really necessary? There will be no shortage!
+We do not know if this is necessary, and we hope that it is not. We have decided to build it and release and share the plans and design for anyone to build. We hope that this is never necessary, and that medical services in all countries of the world will have access to the devices they need. However, we think that if the situation worsens, there may not be enough respirators in numerous places.
 
-# Es OxyGEN un dispositivo médico certificado?
-No, OxyGen es un proyecto de hardware abierto.
+# Is Oxy**GEN** a certified medical device?
+No, Oxy**GEN** is an open hardware project. It should only be built for emergency situations, and should always be operated by qualified personnel and under medical supervision.
