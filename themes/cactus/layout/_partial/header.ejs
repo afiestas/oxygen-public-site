@@ -7,8 +7,16 @@
       <div id="logo" style="background-image: url(<%- url_for(theme.logo.url) %>);"></div>
     <% } %>
   <% } %>
+  <div style="float:right;margin-top:-30px;font-size:25px">
+    <% for (var i in theme.social_links) { %> 
+      <a href="<%- theme.social_links[i] %>"><span class="fab fa-<%= i %>"></span></a>
+    <% } %>
+    <a href="mailto:oxygen@protofy.xyz"><span class="fas fa-envelope"></span></a>
+  </div>
     <div id="title">
-      <h1><%= config.title %></h1>
+      <h1><%= config.title %>
+
+      </h1>
     </div>
   </a>
   <div id="nav">
@@ -32,5 +40,7 @@
         <li><a href="<%- url_for(theme.nav[i]) %>"><%= __('nav.'+i).replace("nav.", "") %></a></li>
       <% } %>
     </ul>
+
+    
   </div>
 </header>
