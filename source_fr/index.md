@@ -7,7 +7,12 @@ Oxy**GEN** est un projet de hardware ouvert pour que tout le monde puisse constr
 
 Les dessins et les instructions sont disponibles au téléchargement gratuitement. Il peut être construit en quelques heures, sans formation préalable ni outils spécialisés. Toutes les pièces qui composent OxyGEN sont faciles à obtenir partout dans le monde. Il suffit d'un peu d'ingéniosité, d' un moteur d'essuie-glace et de quelques matériaux de base. 
 
-<img src = "/images/resucitador-manual-adulto-tipo-ambu.png" width = "300" alt = "Adult resuscitator manual type AMBU">
+
+<br/> 
+
+{% youtube -KeWwQIYlhw %}
+
+<br/> 
 
 Le projet est né en mars 2020, au milieu d'une crise sanitaire provoquée par le **coronavirus** (sars-cov-2). Son objectif est de répondre à une éventuelle situation de manque de respirateurs d'urgence dans les systèmes de santé du monde entier. 
 
