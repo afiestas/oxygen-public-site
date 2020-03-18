@@ -8,7 +8,7 @@
     <% } %>
   <% } %>
   <div style="float:right;margin-top:-30px;font-size:25px">
-    <% for (var i in theme.social_links) { %> 
+    <% for (var i in theme.social_links) { %>
       <a href="<%- theme.social_links[i] %>"><span class="fab fa-<%= i %>"></span></a>
     <% } %>
     <a href="mailto:oxygen@protofy.xyz"><span class="fas fa-envelope"></span></a>
@@ -31,16 +31,19 @@
       <li>
         <a href="/fr">fr</a>
       </li>
+      <li>
+        <a href="/de">de</a>
+      </li>
     </ul>
     <ul>
       <li class="icon">
         <a href="#"><i class="fas fa-bars fa-2x"></i></a>
       </li>
-      <% for (var i in theme.nav) { %> 
+      <% for (var i in theme.nav) { %>
         <li><a href="<%- url_for(theme.nav[i]) %>"><%= __('nav.'+i).replace("nav.", "") %></a></li>
       <% } %>
     </ul>
 
-    
+
   </div>
 </header>

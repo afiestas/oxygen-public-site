@@ -12,7 +12,7 @@ cleanBuild () {
 #generates a language inside a subfolder and cleans before exit
 generateLang() {
   ln -s source_$1 source
-  
+
   #change settings for this language
   cp _config.yml.template _config.yml
   sed -i '' 's/__LANG__/'$1'/g' _config.yml
@@ -25,7 +25,7 @@ generateLang() {
     sed -i '' 's/__ROOT__/'$1'\//g' _config.yml
     sed -i '' 's/__URL__/http\:\/\/oxygen\.protofy\.xyz\/'$1'\//g' _config.yml
   fi
-  
+
   npx hexo generate
 
   if [ $1 == "en" ]; then
@@ -44,5 +44,5 @@ cleanBuild
 #generate langs, maybe this can be changed to a loop
 generateLang "en"
 generateLang "es"
-generateLang "fr" 
-
+generateLang "fr"
+generateLang "de"
