@@ -4,7 +4,7 @@ date: 2020-03-14 16:39:40
 tags:
 ---
 
-Le projet Oxy**GEN** est né d'un groupe d'ingénieurs enfermé à la maison en raison de la situation pandémique causée par le coronavirus. Constatant que les hôpitaux sont de plus en plus encombrés et qu’il est possible que les choses empirent, nous avons décidé de lancer ce projet pour essayer d'apporter notre petit grain de sable, avec ce que nous savons faire: **créer des prototypes à partir de zéro en très peu de temps*. 
+Le projet Oxy**GEN** est né d'un groupe d'ingénieurs enfermés à la maison en raison de la situation pandémique causée par le coronavirus. Constatant que les hôpitaux sont de plus en plus encombrés et qu’il est possible que les choses empirent, nous avons décidé de lancer ce projet pour essayer d'apporter notre petit grain de sable, avec ce que nous savons faire: **créer des prototypes à partir de zéro en très peu de temps**. 
 
 Motivés et préoccupés par la situation actuelle et le [possible manque d'accès aux appareils d'assistance respiratoire](https://www.boe.es/boe/dias/2020/03/15/pdfs/BOE-A-2020-3701.pdf), nous avons collecté le maximum d’infos préexistantes et généré de nouvelles idées à partir d’un travail collaboratif, idées que nous avons ensuite testées dans notre lab. Cela nous a amenés à envisager différentes solutions jusqu'à l'obtention d’une première version d'Oxy**GEN**. 
 
@@ -14,6 +14,6 @@ Nous voulons construire un projet libre, où tous les plans, la liste du matéri
 
 Dans ces situations d'urgence et de pénurie, l'accès aux produits technologiques comme des microcontrôleur Arduino, aux outils spécialisés comme les CNC, ou aux pièces complexes comme les moteurs “pas a pas”, devient très difficile. Il peut y avoir un blocage d’ordre logistique, ou le coût est tout simplement trop élevé. Nous pensons que la réutilisation et l'ingéniosité, combinées à une collaboration entre tous, peuvent nous aider à sortir de cette situation. 
 
-Oxy**GEN** est jusqu’à présent un projet local: nous vous demandons votre aide pour le faire grandir, afin qu'ensemble, nous fassions ce qui est à notre portée en ces temps difficiles. Le peu que chacun de nous peut faire individuellement, peut se multiplier pour aider les vrais héros de l’histoire : les professionnels de la santé qui, dans le monde entier, se battent pour sauver des vies, malgré la pénurie, l'urgence et les problèmes auxquels ils font face.
+Oxy**GEN** est jusqu’à présent un projet local: nous vous demandons votre aide pour le faire grandir, afin qu’ensemble, nous puissions donner un coup de main aux vrais héros de l’histoire: les professionnels de la santé qui, dans le monde entier, se battent pour sauver des vies, malgré la pénurie, l'urgence et les problèmes auxquels ils font face.
 
 Comme le dit la chanson **VOUS NE MARCHEREZ JAMAIS SEUL** 

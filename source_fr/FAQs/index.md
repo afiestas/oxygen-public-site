@@ -21,19 +21,19 @@ Nous n'avons pas l'intention de construire cet appareil pour le vendre ou le liv
 Nous voulons juste aider dans cette situation d'urgence sanitaire mondiale avec un appareil bon marché, facile et rapide à construire qui peut être utilisé en dernier recours pour les situations d'urgence dans des endroits où il n'y a pas d'autre option. Nous ne fournissons que la conception, les plans et les schémas, ainsi que notre expérience dans la construction de ce prototype.
 
 # Comment je peux aider?
-Oxy**GEN** est un projet libre et gratuit, vous pouvez créer des fourchettes ou ajouter de nouvelles idées tant qu'il reste ouvert et gratuit pour tout citoyen.
+Oxy**GEN** est un projet libre et gratuit, vous pouvez créer un Fork ou ajouter de nouvelles idées tant qu'il reste ouvert et gratuit.
 
 # Qui se cache derrière Oxy**GEN**?
-Oxy**GEN** est un projet matériel collaboratif démarré et coordonné par [Protofy](https://protofy.xyz). N'importe qui peut apporter des idées, des plans ou des connaissances. Le projet est coordonné en XXX. Vous pouvez nous contacter à travers oxygen@protofy.xyz. 
+Oxy**GEN** est un projet matériel collaboratif démarré et coordonné par [Protofy](https://protofy.xyz). N'importe qui peut apporter des idées, des plans ou des connaissances. Vous pouvez nous contacter à travers oxygen@protofy.xyz. 
 
 # Qu'est-ce que Protofy?
 [Protofy](https://protofy.xyz) est une entreprise située à Barcelone qui soutient l'innovation avec du hardware et du software pour les entreprises et les services d'ingénierie.
 
 # Qu'est-ce qui nous inspire ou nous motive?
-La volonté d'apporter notre savoir pour atténuer les effets dévastateurs de cette crise sanitaire sans précédent. Cette pandémie peut conduire à des situations de pénurie et de pénurie d'équipements et de fournitures médicales dans certains endroits (zones rurales, pays en développement) si la situation s'aggrave.
+La volonté d'apporter notre savoir pour atténuer les effets dévastateurs de cette crise sanitaire sans précédent. Cette pandémie peut conduire à des situations de pénurie d'équipements et de fournitures médicales dans certains endroits (zones rurales, pays en développement) si la situation s'aggrave.
 
 # Ce n'est pas exagéré? Est-ce vraiment nécessaire? Il n'y aura pas de pénurie!
-Nous ne savons pas si cela est nécessaire et nous espérons que non. Nous avons décidé de le construire et de le publier et de partager les plans et la conception que quiconque pourra construire. Nous espérons que cela ne sera jamais nécessaire et que les services médicaux de tous les pays du monde auront accès aux appareils dont ils ont besoin. Cependant, nous pensons que si la situation empire, il est possible qu’il n’y ait pas suffisamment de respirateurs dans de nombreux endroits, comme cela vient de se passer dans d’autres pays.
+Nous avons décidé de construire cet appareil, de le publier, de partager les plans pour ceux qui pourraient en avoir besoin. Nous espérons que cela ne sera jamais nécessaire et que les services médicaux de tous les pays du monde auront accès aux appareils dont ils ont besoin. Cependant, nous pensons que si la situation empire, il est possible qu’il n’y ait pas suffisamment de respirateurs dans de nombreux endroits, comme cela vient de se passer dans d’autres pays.
 
 # Oxy**GEN** est-il un appareil médical certifié?
 Non, Oxy**Gen** est un projet de matériel libre. Il ne doit être construit que pour les situations d'urgence et doit toujours être utilisé par du personnel qualifié et sous surveillance médicale.

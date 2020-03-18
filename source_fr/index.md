@@ -3,9 +3,9 @@ title: Bienvenue au projet OxyGEN
 ---
 
 # Bienvenue dans l'OxyGEN
-Oxy**GEN** est un projet de hardware ouvert pour que tout le monde puisse construire un mécanisme d'urgence qui automatise un respirateur manuel de type BVM, dans des situations de pénurie extrême, comme celle que génère le **coronavirus** (COVID-19) dans certaines parties du monde.
+Oxy**GEN** est un projet de hardware libre pour que tout le monde puisse construire un mécanisme d’urgence automatisant un respirateur manuel de type BVM, pour les situations de pénurie extrême, comme celle que génère le **coronavirus** (COVID-19) dans certaines parties du monde.
 
-Les dessins et les instructions sont disponibles au téléchargement gratuitement. Il peut être construit en quelques heures, sans formation préalable ni outils spécialisés. Toutes les pièces qui composent Oxy**GEN** sont faciles à obtenir partout dans le monde. Il suffit d'un peu d'ingéniosité, d' un moteur d'essuie-glace et de quelques matériaux de base. 
+Les dessins et les instructions sont disponibles au téléchargement gratuitement. Cet appareil peut être construit en quelques heures, sans formation préalable ni outils spécialisés. Toutes les pièces qui composent Oxy**GEN** sont faciles à obtenir partout dans le monde. Il suffit d’un peu d’ingéniosité, d’ un moteur d’essuie-glace et de quelques matériaux de base.
 
 <p> Oxy<strong>GEN</strong> a pour objectif de libérer du personnel de santé dans des situations exceptionnelles. Cet appareil<span class="danger" style="color: #fb4949;"> n'est pas un appareil médical </span> et nous avons un long chemin à parcourir, ce n'est qu'une première étape. Il doit toujours être utilisé sous la stricte supervision du personnel de santé.</p>
 
@@ -29,14 +29,14 @@ Le projet est né en mars 2020, au milieu de la crise sanitaire provoquée par l
 # Vision du projet             
 * Utiliser des pièces récupérées de voitures ou de petits appareils électroménagers, afin que n'importe qui puisse le construire
 * Proposer le projet librement et gratuitement à toute la communauté
-* Fournir des informations de qualité pour que chacun puisse le construire et le manipuler.
+* Fournir des plans de qualité pour que chacun puisse le construire et l’enrichir. 
 * Assurer un bon fonctionnement dans les situations d'urgence grâce à la simplicité de la conception et des composants.
 * Aucune modification ne doit être apportée au dispositif médical : le BVM fonctionne de la même manière que d'habitude, à la différence que le mouvement est automatisé. 
 * Conception modulaire pour que la communauté puisse la modifier et apporter ses idées
 
 # Avertissements
 * Un respirateur bien utilisé sauve des vies, un respirateur mal utilisé peut provoquer la mort du patient.
-* L'appareil doit être utilisé exclusivement sous la supervision d'un personnel de santé qualifié
+* L'appareil doit être utilisé exclusivement sous la supervision d'un personnel de santé qualifié.
 * La conception de base ne filtre pas l'air expiré, lequel est rejeté dans l'environnement. Rester près du malade n'est donc pas recommandé. Nous travaillons sur cette option pour une prochaine itération. 
 
 # Prochaines étapes
@@ -44,7 +44,7 @@ Ce projet est né aujourd'hui, 15/03/2020, avec l’ambition de l’ouvrir à to
 * Variation de la vitesse de rotation du moteur pour ajuster le rythme de la respiration ;  avec la philosophie de faible coût à l'esprit, nous avons pensé à un rhéostat d un radiateur électrique.
 * Créer un système permettant à l'air expiré d'être redirigé depuis le BVM pour “inactiver” le virus et obtenir un environnement aseptique. 
 une première piste est dans ce [post](https://foro.coronavirusmakers.org/index.php?p=/discussion/24/alternativas-para-filtro-antiviral-a-la-salida-del-ambu#latest ) très récent dans [CoronaVirusMakers](https://foro.coronavirusmakers.org/) envisageant la possibilité d'éliminer le virus avec une colonne à bulles contenant un liquide oxydant, comme de l’eau de javel.
-* Ajoutez un système de détection pour avertir si la vitesse de respiration est réduite par rapport à la vitesse souhaitée, pour détecter l'usure des pièces ou les pannes.
+* Ajouter un système de détection pour avertir si la vitesse de respiration a été réduite par rapport à la vitesse souhaitée ; puis éventuellement détecter l’usure des pièces ou les pannes.
 * L'union axe-corps doit être améliorée.
 * Proposer d'autres matériaux accessibles pour remplacer le bois qui est poreux donc peu compatible avec l'environnement sanitaire  : plastique, plexi..
 
