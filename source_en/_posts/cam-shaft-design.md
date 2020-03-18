@@ -4,7 +4,7 @@ date: 2020-03-18 08:50:40
 tags:
 ---
 
-Before a deeper thought, it’s easy to believe that since the medical staff use AMBU devices manually, the nhale and cycle curve shape is not a critical point. However, AMBU devices are designed in order to be used during short periods of time, and a mid or long-term use of a respirator with inaccurate or irregular cycles, could generate negative effects on the patient. For this reason, one of the **key tasks of the project is to accurately design the cam that acts on the AMBU.**
+Before a deeper thought, it’s easy to believe that since the medical staff use AMBU devices manually, the nhale and cycle curve shape is not a critical point. However, AMBU devices are designed in order to be used during short periods of time, and a mid or long-term use of a ventilator with inaccurate or irregular cycles, could generate negative effects on the patient. For this reason, one of the **key tasks of the project is to accurately design the cam that acts on the AMBU.**
 
 Hospital’s mechanical ventilators have a large number of adjustment parameters (total volume displaced, airflow rate and duration of inhalation and exhalation phases, waiting time between both phases, etc.), to adapt the shape and speed of the breathing cycles to the physiognomy of each patient (sex, age, pathologies, etc). However, the adjustment of these parameters is carried out electronically, unattainable with **a [DIY](https://en.wikipedia.org/wiki/Do_it_yourself) mechanical system like** Oxy**GEN**.
 
@@ -30,7 +30,7 @@ To guarantee the derivability of the curve at the points of intersection between
 
 **Normalized breathing curve (blue), with its corresponding first derivative (red).**
 
-Once the function is defined, next step is to normalize it on the vertical axis and adjust it to 2 * Pi on the horizontal axis, with the purpose of ensuring an easy adjustment to the necessary dimensions defined by the (variable) design of the device structure. Note that the horizontal axis corresponds to one revolution of the cam and not to the proper time axis either.
+Once the function is defined, next step is to normalize it on the vertical axis and adjust it to 2 \* Pi on the horizontal axis, with the purpose of ensuring an easy adjustment to the necessary dimensions defined by the (variable) design of the device structure. Note that the horizontal axis corresponds to one revolution of the cam and not to the proper time axis either.
 
 For the generation of the cam, the normalized curve measurements are adjusted to the minimum and maximum radius necessary for the cam, and then plotted using polar coordinates.
 
