@@ -20,11 +20,17 @@ El proyecto nace en marzo de 2020, en plena crisis sanitaria provocada por el **
 # Repositorio y descargas
 <img src="/es/images/oxygen-explo-view.png" width="450" alt="Vista explosionada de OxyGEN">
 
-[Ver Repositorio](https://github.com/ProtofyTeam/OxyGEN)
-[Descargar](https://github.com/ProtofyTeam/OxyGEN/archive/master.zip)
+<!-- <p style="text-align: center;">
+<a href="https://github.com/ProtofyTeam/OxyGEN" target="_blank" rel="noopener" style="padding: 10px; margin-right: 5px; background-color: #3abc8a; color: white;">Ver Repositorio<span style="background-color:#fb4949; padding:3px; font-size:10px;">nuevo</span></a>
+<a href="https://github.com/ProtofyTeam/OxyGEN/archive/master.zip" target="_blank" rel="noopener" style="padding: 10px; margin-left: 5px; background-color: #3abc8a; color: white;">Descargar <span style="background-color:#fb4949; padding:3px; font-size:10px;">nuevo</span></a></p> -->
+
+<p style="text-align: center;">
+<a href="https://github.com/ProtofyTeam/OxyGEN" target="_blank" rel="noopener" style="padding: 10px; margin-right: 5px; background-color: #3abc8a; color: white;">Ver Repositorio</a>
+<a href="https://github.com/ProtofyTeam/OxyGEN/archive/master.zip" target="_blank" rel="noopener" style="padding: 10px; margin-left: 5px; background-color: #3abc8a; color: white;">Descargar</a></p>
 
 # Síguenos!
 * [Discord](https://discord.gg/yyYQxEG)
+
 
 # Visión del proyecto             
 * Usar piezas recuperadas de automóviles o pequeños electrodomésticos, con la idea de que cualquiera pueda construirlo.

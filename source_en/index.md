@@ -20,8 +20,14 @@ The project was born in March 2020, in the midst of a health crisis caused by th
 # Repository and downloads
 <img src="/images/oxygen-explo-view.png" width="450" alt="Explosion view of the OxyGEN">
 
-[View repository](https://github.com/ProtofyTeam/OxyGEN)
-[Download](https://github.com/ProtofyTeam/OxyGEN/archive/master.zip)
+<!-- <p style="text-align: center;">
+<a href="https://github.com/ProtofyTeam/OxyGEN" target="_blank" rel="noopener" style="padding: 10px; margin-right: 5px; background-color: #3abc8a; color: white;">View repository<span style="background-color:#fb4949; padding:3px; font-size:10px;">nuevo</span></a>
+<a href="https://github.com/ProtofyTeam/OxyGEN/archive/master.zip" target="_blank" rel="noopener" style="padding: 10px; margin-left: 5px; background-color: #3abc8a; color: white;">Download <span style="background-color:#fb4949; padding:3px; font-size:10px;">nuevo</span></a></p> -->
+
+<p style="text-align: center;">
+<a href="https://github.com/ProtofyTeam/OxyGEN" target="_blank" rel="noopener" style="padding: 10px; margin-right: 5px; background-color: #3abc8a; color: white;">View repository</a>
+<a href="https://github.com/ProtofyTeam/OxyGEN/archive/master.zip" target="_blank" rel="noopener" style="padding: 10px; margin-left: 5px; background-color: #3abc8a; color: white;">Download</a></p>
+
 
 # Follow us!
 * [Discord](https://discord.gg/yyYQxEG)
@@ -47,6 +53,7 @@ In the idea of lightly guiding the brainstorming process, we have researched a f
 * Add a sensing system to warn if the breathing speed is reduced with respect to the desired one, to prevent the wear of parts or failures.
 * The axis-body union must be improved.
 * Find other accessible material to replace the wood.
+* Make it compatible with Rees system.
 
 # Thanks and community
 This project would not be possible without:

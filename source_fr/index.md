@@ -20,8 +20,13 @@ Le projet est né en mars 2020, au milieu de la crise sanitaire provoquée par l
 # Dépot git et téléchargements
 <img src="/fr/images/oxygen-explo-view.png" width="450" alt="Vision étendue du projet OxyGEN">
 
-[Voir le dépot git](https://github.com/ProtofyTeam/OxyGEN)
-[Téléchargements](https://github.com/ProtofyTeam/OxyGEN/archive/master.zip)
+<!-- <p style="text-align: center;">
+<a href="https://github.com/ProtofyTeam/OxyGEN" target="_blank" rel="noopener" style="padding: 10px; margin-right: 5px; background-color: #3abc8a; color: white;">Voir le dépot git <span style="background-color:#fb4949; padding:3px; font-size:10px;">new</span></a>
+<a href="https://github.com/ProtofyTeam/OxyGEN/archive/master.zip" target="_blank" rel="noopener" style="padding: 10px; margin-left: 5px; background-color: #3abc8a; color: white;">Téléchargements <span style="background-color:#fb4949; padding:3px; font-size:10px;">new</span></a></p> -->
+
+<p style="text-align: center;">
+<a href="https://github.com/ProtofyTeam/OxyGEN" target="_blank" rel="noopener" style="padding: 10px; margin-right: 5px; background-color: #3abc8a; color: white;">Voir le dépot git</a>
+<a href="https://github.com/ProtofyTeam/OxyGEN/archive/master.zip" target="_blank" rel="noopener" style="padding: 10px; margin-left: 5px; background-color: #3abc8a; color: white;">Téléchargements</a></p>
 
 # Suis-nous!
 * [Discord](https://discord.gg/yyYQxEG)
