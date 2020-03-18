@@ -25,11 +25,10 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
-  twitter: /
-  facebook: /
-  linkedin: /
-  mail: mailto:name@email.com
+  instagram: https://www.instagram.com/oxygen_project_/
+  github: https://github.com/ProtofyTeam/OxyGEN
+  twitter: https://twitter.com/OxyGEN_Project_
+  facebook: https://www.facebook.com/Oxygen-Project-103423307962632
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
