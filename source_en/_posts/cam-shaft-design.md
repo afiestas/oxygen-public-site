@@ -14,7 +14,7 @@ For the generation of a “standard” cam, we take as reference a typical breat
 
 The first step in generating the cam, is the definition of the mathematical function (curves) that will describe its shape.
 
-<!-- <img src="/images/diseno-leva/pict1.jpg" width="450" alt="OxyGEN cam shaft design image 1"> -->
+<img src="/images/diseno-leva/pict1.jpg" width="450" alt="OxyGEN cam shaft design image 1">
 
 <!-- **Top to bottom: Reference curve (external source), regression function, corresponding cam. From left to right: V1 bi-sinusoidal regression, V2 parabolic-logarithmic regression, V3 regression using gamma distributions.** -->
 
